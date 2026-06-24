@@ -112,7 +112,7 @@ O mapa é representado por uma matriz de inteiros onde cada valor é um estado:
 
 ## Autores
 
-Código base por **Thiago Felski Pereira**.
+Código base por **Isaac Estolano**.
 Adaptações e correções de lógica (`playerIn`, `boxIn`, movimentação) realizadas durante o desenvolvimento.
 
 ---
